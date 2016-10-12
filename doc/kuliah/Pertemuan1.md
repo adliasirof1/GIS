@@ -1,4 +1,4 @@
-**Sistem Informasi Geografis**
+**Resume**
 
 Sistem Informasi Geografis atau di sebut juga (SIG) terdiri dari 3 kata yaitu:
 
@@ -15,5 +15,4 @@ Bumi juga memiliki dua koordinat
 Yaitu latitude dan longitude
 
 Latitude adalah sebuah garis horizontal / mendatar. Dan titik 0 adalah sudut ekuator, tanda + menunjukan arah menuju kutub utara
-
 Longitude adalah sebuah garis horizontal dari khatulistiwa. Sudut 0 ke arah Hawai adalah 0-180
