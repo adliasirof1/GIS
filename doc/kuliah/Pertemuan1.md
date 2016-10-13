@@ -16,4 +16,4 @@ Yaitu latitude dan longitude
 
 Latitude adalah sebuah garis horizontal / mendatar. Dan titik 0 adalah sudut ekuator, tanda + menunjukan arah menuju kutub utara
 
-Longitude adalah sebuah garis horizontal dari khatulistiwa. Sudut 0 ke arah Hawai adalah 0-180
+Longitude adalah sebuah garis lintang dari khatulistiwa. Sudut 0 ke arah Hawai adalah 0-180
